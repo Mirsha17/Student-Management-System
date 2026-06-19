@@ -8,9 +8,10 @@ This project helps manage student records such as adding, updating, viewing, and
 ->Update student information
 ->Delete student records
 ->Attendance management
--> Web-based UI using JSP
--> Database integration using MySQL
+->Web-based UI using JSP
+->Database integration using MySQL
 🛠️ Tech Stack
+
 Backend: Java, Spring MVC
 Frontend: JSP, HTML, CSS
 Database: MySQL
