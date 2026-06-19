@@ -3,6 +3,7 @@ A web-based Student Management System built using Java, Spring MVC, JSP, and MyS
 This project helps manage student records such as adding, updating, viewing, and deleting student information efficiently.
 
 🚀 Features
+
 ->Add new student details
 ->View all student records
 ->Update student information
@@ -10,6 +11,7 @@ This project helps manage student records such as adding, updating, viewing, and
 ->Attendance management
 ->Web-based UI using JSP
 ->Database integration using MySQL
+
 🛠️ Tech Stack
 
 Backend: Java, Spring MVC
